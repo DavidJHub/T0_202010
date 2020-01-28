@@ -92,7 +92,6 @@ public class ArregloDinamico implements IArregloDinamico {
 					elementos[i]=temp[i];
 					tamanoAct--;
 					}
-				System.out.println(i);
 				}
 			
 
